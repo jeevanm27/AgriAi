@@ -288,10 +288,10 @@ streamlit run app.py
 B.Tech Computer Science Student  
 Indian Institute of Information Technology, Sricity  
 Email: jeevan.m23@iiits.in  
-LinkedIn: [linkedin.com/in/jeevan-m](https://linkedin.com/in/jeevan-m)
+LinkedIn: [linkedin.com/in/jeevan-m](https://www.linkedin.com/in/jeevan-m-26696327b/)
 
 ---
 
 **Empowering Agriculture with Artificial Intelligence**
 
-Made with ❤️ by Jeevan M | © 2024 Agriculture AI System
+Made by Jeevan 
